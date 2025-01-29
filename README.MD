@@ -48,4 +48,4 @@ view topics, posts, and comments. The application also includes user authenticat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/forum-application.git
+   git clone    https://github.com/YanitsaNikolova/forum-be-main.git
